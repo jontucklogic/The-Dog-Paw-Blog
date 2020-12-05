@@ -69,3 +69,21 @@ footer {
   text-align: center;
   padding: 20px 0;
 }
+
+a:link {
+  color: orange;
+}
+
+a:visited {
+  color: lightblue;
+}
+
+a:hover {
+  color: forestgreen;
+}
+
+a:active {
+  color: lightcoral;
+}
+
+
