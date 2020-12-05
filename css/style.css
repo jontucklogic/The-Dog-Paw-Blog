@@ -70,18 +70,22 @@ footer {
   padding: 20px 0;
 }
 
+/* Selects any <a> that has not been visited yet */
 a:link {
   color: orange;
 }
 
+/* Selects any <a> that has been visited */
 a:visited {
   color: lightblue;
 }
 
+/* Selects any <a> element when "hovered" */
 a:hover {
   color: forestgreen;
 }
 
+/* Selects any <a> that is being activated */
 a:active {
   color: lightcoral;
 }
